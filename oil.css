@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.about-p1 {
+    color: #6c757d;
+    font-weight: bold;
+    font-size: 15px;
+
+
+}
+
+.pic {
+    font-weight: bold;
+}
+
+.venkat12 {
+    font-family: Roboto;
+    color: #360b33;
+    font-weight: bold;
+    font-size: 20px;
+    ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.footer {
+    color: #6c757d;
+    font-size: 15px;
+
+}
+
+
+.about-bg {
+    width: 100%;
+    background-color: #0d2436;
+}
+
+
+
+.follow-us-card {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+
+
+
+.icon {
+    font-size: 35px;
+    color: #d0b200;
+}
+
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #183b56;
+}
+
+.thanking-customers-section {
+
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+
+    background-size: cover;
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+.delivery-and-payment-section {
+    background-color: white;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+    border-radius: 10px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+
+
+.menu-image-1 {
+    border-radius: 16px;
+}
+
+.menu-item1 {
+    border-radius: 16px;
+}
+
+.mlr {
+    font-weight: bold;
+    font-size: 30px;
+    color: #071230;
+    font-family: Times New Roman;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+.food-logo {
+    height: 130px;
+    width: 160px;
+
+
+}
+
+#nav-item1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#nav-item4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+.food-banner1 {
+    background-image: url("https://img.freepik.com/premium-photo/coconut-oil-glass-bottle-splash-black-background-coconut-oil-splash_162279-4846.jpg?w=740");
+    background-size: cover;
+    height: 100vh;
+}
+
+.food-b1 {
+    color: white;
+    background-color: #d0b200;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    font-family: "Roboto";
+    margin-right: 10px;
+    font-size: 13px;
+}
+
+
+
+.food-b2 {
+    color: white;
+    font-family: "Roboto";
+    background-color: transparent;
+    border-color: #d0b200;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+
+
+.choose-us-card1 {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+
+.choose-us-h1 {
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+
+.choose-us-p1 {
+    color: #5a7184;
+    font-size: 23px;
+    font-family: "Roboto";
+}
+
+
+
+.choose-us-card2 {
+
+    background-color: white;
+    background-size: cover;
+    border-radius: 30px;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e5eaf4;
+    font-size: 23px;
+}
+
+
+.image2 {
+    height: 70px;
+    width: 80px;
+}
+
+.choose-us-h2 {
+    padding-top: 10px;
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.choose-us-p2 {
+    color: #7b8794;
+    font-size: 23px;
+    font-family: "Roboto";
+}
+
+.offers {
+    color: #323f4b;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.menu-h1 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
